@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">permissionGrant</string>
+    <string name="ask_grant">Need the permission below,click the button below to authorize</string>
+    <string name="grant_btn">Grant</string>
+    <string name="go_setting_grant">If authorize fail,click the button below to enter the app info activity.Then open the app\'s permission</string>
+    <string name="go_setting_btn">Go Setting</string>
+</resources>

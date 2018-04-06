@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Backup</string>
+    <string name="restore_sms">Restore Sms</string>
+    <string name="backup">backup</string>
+    <string name="restore">restore</string>
+
+</resources>
